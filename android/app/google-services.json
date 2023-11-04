@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180218911834",
+    "project_id": "iceii-1286d",
+    "storage_bucket": "iceii-1286d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180218911834:android:cc3d2b2fa1889db599cc63",
+        "android_client_info": {
+          "package_name": "com.example.iceii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180218911834-67llpbv12vmk0mtc4h51ktk4igap0e5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn4r_6cBbmIAf0lstt7BhEEjtLpgNAQGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180218911834-67llpbv12vmk0mtc4h51ktk4igap0e5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
